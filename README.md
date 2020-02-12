@@ -15,5 +15,13 @@ NodeJS installed.
 
 #Running the front end server
 1. Go to project base/frontend.
-2. Open terminal and run yarn.
+2. Open terminal and run yarn start.
 3. Go to localhost:3000.
+
+Tools: 
+1. Q&A App
+2. Calculator
+3. Tic Tac Toe
+4. Temperature converter
+
+
